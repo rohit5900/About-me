@@ -25,10 +25,10 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 
 ## 📈 GitHub Stats
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-Swami-Dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Swami-Dev&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Swami-Dev&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rohit-Swami-Dev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit5900&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit5900&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohit5900&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohit5900&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔗 Connect with Me
 
