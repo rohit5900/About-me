@@ -1,12 +1,16 @@
 # Hi there, I'm Rohit! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer always looking to learn and grow. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate developer who loves turning ideas into reality through code. Here's a little about me:
 
 ## 🚀 About Me
-- 🌱 I'm currently learning Backend Development
-- 👯 I'm looking to collaborate on interesting projects
-- 💬 Ask me about Full Stack Web Development
-- ⚡ Fun fact: I love solving complex problems
+- 💻 Full Stack Developer with a focus on building scalable web applications
+- 🌱 Currently diving deeper into **React**
+- 🔭 Working on [your current project] - [brief 5-7 word description]
+- 🎯 2024 Goals: Contribute to 5+ open source projects and master system design
+- 🧠 Problem solver who enjoys algorithmic challenges and optimization
+- ✨ Passionate about clean code, efficient architecture, and continuous learning
+- 🎓 Computer Science graduate from Lovely Professional University
+- 🎵 Hobbies: Reading tech books • Music production • Competitive gaming
 
 ## 🛠️ Technologies & Tools
 
