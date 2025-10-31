@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves turning ideas
 - 💻 Full Stack Developer with a focus on building scalable web applications
 - 🌱 Currently diving deeper into **React**
 - 🔭 Working on [your current project] - [brief 5-7 word description]
-- 🎯 2024 Goals: Contribute to 5+ open source projects and master system design
+- 🎯 2026 Goals: Contribute to 5+ open source projects and master system design
 - 🧠 Problem solver who enjoys algorithmic challenges and optimization
 - ✨ Passionate about clean code, efficient architecture, and continuous learning
 - 🎓 Computer Science graduate from Lovely Professional University
-- 🎵 Hobbies: Reading tech books • Music production • Competitive gaming
+- 🎵 Hobbies: Reading tech books • Competitive gaming
 
 ## 🛠️ Technologies & Tools
 
